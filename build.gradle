@@ -6,6 +6,8 @@ dependencies {
 }
 repositories {
     mavenLocal()
+    jcenter()
+
 }
 mainClassName = "excersise3"
 
